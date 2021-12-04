@@ -3,6 +3,7 @@ Frist of all this is a modded version of https://github.com/vincentkenny01/spotb
 
 
 # How it work
+
 1. Step
 
 ![brave_1sQK3DuDbd](https://user-images.githubusercontent.com/71355908/144713430-8fef6cb6-54ac-425e-a8ef-0365f27b2a9d.png)
@@ -25,7 +26,7 @@ Click on Update Gravity
 ![brave_nQI3GZGS1h](https://user-images.githubusercontent.com/71355908/144713569-b50da4d1-0cee-4330-a585-81bd8d609be6.png)
 
 
-5. Step
+5.Step
 
 Go and click the Update Button (This can take some time)
 ![brave_CXwpT39q06](https://user-images.githubusercontent.com/71355908/144713604-fbe8a94c-ce9f-44e9-abf1-6af269f82003.png)
