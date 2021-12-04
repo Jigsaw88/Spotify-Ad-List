@@ -37,26 +37,15 @@ After this your are done
 # My spotify dont work anymore
 If your Spotify stopped working after this please add the following links to your **Whitelist**:
 
-spclient.wg.spotify.com
-
-apresolve.spotify.com
-
-dealer.spotify.com
-
-audio4-fa.scdn.co
-
-global-dealer-ssl.spotify.com
-
-lineup-images.scdn.co
-
-download.scdn.co
-
-t.scdn.co
-
-daily-mix.scdn.co
-
-accounts.scdn.co
-
-audio-akp-spotify-com.akamaized.net
-
-audio4-akp-spotify-com.akamaized.net
+1.spclient.wg.spotify.com
+2.apresolve.spotify.com
+3.dealer.spotify.com
+4.audio4-fa.scdn.co
+5.global-dealer-ssl.spotify.com
+6.lineup-images.scdn.co
+7.download.scdn.co
+8.t.scdn.co
+9.daily-mix.scdn.co
+10.accounts.scdn.co
+11.audio-akp-spotify-com.akamaized.net
+12.audio4-akp-spotify-com.akamaized.net
