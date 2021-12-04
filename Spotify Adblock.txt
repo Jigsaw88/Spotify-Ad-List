@@ -1687,3 +1687,4 @@ prod.spotify-heads.map.fastlylb.net
 audio-sp-sea.spotifycdn.net
 scdnco.spotify.map.fastly.net
 i.scdn.co
+audio-fa.scdn.co
