@@ -1,5 +1,5 @@
 # Spotify-Ad-List
-Frist of all this is a modded version of https://github.com/vincentkenny01/spotblock/blob/master/spotify
+First of all this is a modded version of https://github.com/vincentkenny01/spotblock/blob/master/spotify
 
 
 # How it work
