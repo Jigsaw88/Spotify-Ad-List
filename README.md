@@ -57,8 +57,6 @@ daily-mix.scdn.co
 
 accounts.scdn.co
 
-audio-fa.scdn.co
-
 audio-akp-spotify-com.akamaized.net
 
 audio4-akp-spotify-com.akamaized.net
