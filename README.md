@@ -61,10 +61,3 @@ If your Spotify stopped working after this please add the following links to you
 
 12.audio4-akp-spotify-com.akamaized.net
 
-
-
-
-# Notes
-
-Looks like the current main domain for ads is : i.scdn.co
-
