@@ -61,3 +61,4 @@ If your Spotify stopped working after this please add the following links to you
 
 12.audio4-akp-spotify-com.akamaized.net
 
+13.	t.scdn.co (Search stuff on Desktop)
