@@ -9,8 +9,6 @@ ab.tune.com
 ac1.vip.sc9.admob.com
 ac208.sc9.admob.com
 academy.tune.com
-accounts.spotify.com
-lb-wg.dual-gslb.spotify.com
 aci.scdn.co
 beta.spotify.map.fastly.net
 actman.scdn.com
@@ -86,7 +84,6 @@ ap.gslb.spotify.com
 ap.spotify.com
 api-canary.wg.spotify.com
 api-iam.intercom.io
-api-partner.spotify.com
 api-partners-canary.wg.spotify.com
 api-ping.intercom.io
 api-tv-canary.wg.spotify.com
@@ -128,7 +125,6 @@ ash2-idp-a2.ash2.spotify.com
 ash-dealer.spotify.com 
 ash-jumphost-a1.ash1.spotify.com 
 ash-jumphost-a1.ash.spotify.com 
-ash.weblb-wg.dual-gslb.spotify.com 
 ash.weblb-wg.gslb.spotify.com 
 assets.spotify.com
 assets.spotify.com 
@@ -288,8 +284,6 @@ dev.lab.tune.com
 dev.spotify.com 
 devaccount.spotify.com 
 developer.admob.com
-developer.spotify.com 
-developer.spotify.map.fastly.net 
 developers.intercom.io
 developers.spotify.com 
 devicemetadataservice.trafficmanager.net
@@ -316,7 +310,6 @@ eip-onnet.audio-ak.spotify.com.akahost.net
 eip-tata.audio-ak.spotify.com.akahost.net
 eip-tata.audio-ak.spotify.com.akahost.net 
 ejs.moatads.com
-embed.spotify.com 
 eng.admob.com
 engineering.intercom.io
 esdk-ffl.spotify.com 
@@ -341,11 +334,6 @@ fw.adsafeprotected.com
 g.admob.com
 gads22000.pubmatic.com
 gads.pubmatic.com
-gae2-accesspoint-b-kvql.ap.spotify.com 
-gae2-accesspoint-b-m3zs.ap.spotify.com 
-gae2-accesspoint-b-qgbk.ap.spotify.com 
-gae2-accesspoint-b-zk3b.ap.spotify.com 
-gae2.ap.spotify.com 
 gae-dealer-ssl.spotify.com 
 gae-dealer.spotify.com 
 gae-spclient.spotify.com 
@@ -355,19 +343,7 @@ ge-0-0-1-edge1.sc9.admob.com
 ge-0-0-43-crs1.sc9.admob.com
 geo3.ggpht.com
 geo.moatads.com
-gew1-accesspoint-b-0t5h.ap.spotify.com 
-gew1-accesspoint-b-3vgg.ap.spotify.com 
-gew1-accesspoint-b-4nz6.ap.spotify.com 
-gew1-accesspoint-b-ch6f.ap.spotify.com 
-gew1-accesspoint-b-mb1b.ap.spotify.com 
-gew1-accesspoint-b-n2b0.ap.spotify.com 
-gew1-accesspoint-b-p520.ap.spotify.com 
-gew1-accesspoint-b-rzpq.ap.spotify.com 
-gew1-accesspoint-b-wfcl.ap.spotify.com 
-gew1-accesspoint-b-wjjm.ap.spotify.com 
-gew1-accesspoint-b-zg10.ap.spotify.com 
 gew1.ap.spotify.com
-gew1.ap.spotify.com 
 gew-dealer-ssl.spotify.com 
 gew-dealer.spotify.com 
 gew-spclient.spotify.com 
@@ -383,13 +359,8 @@ googletagservices.com
 groups.spotify.com 
 gtssl2-ocsp.geotrust.
 gtssl2-ocsp.geotrust.com
-guc3-accesspoint-b-76wp.ap.spotify.com 
-guc3-accesspoint-b-vn51.ap.spotify.com 
-guc3.ap.spotify.com 
 guc-dealer-ssl.spotify.com 
 guc-dealer.spotify.com 
-guc-spclient.spotify.com 
-guc.weblb-wg.spotify.com 
 gw.admob.com
 h.admob.com
 hanane.ash1.spotify.com 
@@ -423,8 +394,6 @@ herlinda.ash1.spotify.com
 herlinda.ash.spotify.com 
 hrblog.spotify.com 
 i.admob.com
-i.scdn.co
-i.scdn.co 
 ia1.comscore.com
 ia2.comscore.com
 iad.comscore.com
@@ -486,15 +455,12 @@ login-signup.scdn.co
 login.spotify.com 
 logtest.moatads.com
 lon6-accesspoint-a33.lon6.spotify.com
-lon.weblb-wg.dual-gslb.spotify.com 
-lon.weblb-wg.dual-gslb.spotify.com 
 lon.weblb-wg.gslb.spotify.com 
 lotta.ash1.spotify.com 
 lotta.ash.spotify.com 
 lysandra.ash1.spotify.com 
 lysandra.ash.spotify.com 
 m.admob.com
-lb-wg.dual-gslb.spotify.com
 ma.tune.com
 mail2.comscore.com
 mail.spotify.com 
@@ -520,7 +486,7 @@ moat.pxl.ace.advertising.com
 moatads.com
 moatads.com.edgekey.net
 mobile-001.lon.spotify.com 
-mobile-ap.spotify.com 
+
 mobile-sdk-api.intercom.io
 mobile.spotify.com 
 mosaic.scdn.co 
@@ -561,13 +527,10 @@ o.scdn.co
 oktascimserver.spotify.com 
 omaze.
 omaze.com
-open.scdn.co 
-open.spotify.com 
 opensource.spotify.com 
 ops-prod.us-west-2.k8s.ops.tune.com
 ord.comscore.com
 orientation.internal.intercom.io
-origin-play.spotify.com 
 p1.vip.sc9.admob.com
 p.admob.com
 p.scdn.co 
@@ -598,7 +561,6 @@ pixel.moatads.com
 pixel.spotify.com
 pixel.spotify.com 
 pl.scdn.co 
-play.spotify.com 
 play.spotify.edgekey.net 
 player.spotify.com 
 playlist.ma.tune.com
@@ -652,7 +614,6 @@ s.update.moatads.com
 samatha.ash1.spotify.com 
 samatha.ash.spotify.com 
 sap-testing.spotify.com 
-sap.spotify.com 
 sb.scorecardresearch.com
 sb.voicefive.com
 sc1.admob.com
@@ -665,7 +626,6 @@ secure-gg.imrworldwide.com
 secure.insightexpressai.com
 securepubads.g.doubleclick.n
 securepubads.g.doubleclick.net
-seektables.scdn.co 
 seen-on-screen.thewhizmarketing.com
 sejs.moatads.com
 server-54-23-216-23.mrs5.r.cloudfront.net
@@ -681,7 +641,6 @@ shrt.spotify.com
 shulamit.ash1.spotify.com 
 shulamit.ash.spotify.com 
 siterecruit.comscore.com
-sjc.weblb-wg.dual-gslb.spotify.com 
 slackin.spotify.com 
 smtp2.admob.com
 smtp.admob.com
@@ -718,7 +677,6 @@ sto3-weblb-wg6.sto3.spotify.com
 sto3.spotify.com
 sto-dealer.spotify.com 
 sto-spclient.spotify.com 
-sto.weblb-wg.dual-gslb.spotify.com 
 sto.weblb-wg.gslb.spotify.com 
 store.intercom.io
 support2.scdn.co 
@@ -804,7 +762,6 @@ wab.spotify.com
 wap.admob.com
 waps.admob.com
 wave.spotify.com 
-weblb-wg.dual-gslb.spotify.com 
 weblb-wg.gslb.spotify.
 weblb-wg.gslb.spotify.com
 weblb-wg.gslb.spotify.com 
@@ -1299,7 +1256,6 @@ audio-ak.spotify.com
 audio-akp.spotify.com
 audio-akp.spotify.com
 audio-ec.spotify.com
-audio-fa.scdn.co
 audio-fab.spotify.com
 audio-fac.spotify.com
 audio-sp.scdn.co
@@ -1319,9 +1275,7 @@ links.spotify.com
 log.spotify.com
 messenger-webview.scdn.co
 oktascimserver.spotify.com
-open.scdn.co
 pci.spotify.com # pay server
-play.spotify.edgekey.net
 prod.spotify.map.fastly.net
 prod.spotify.map.fastlylb.net
 quicksilver.scdn.co
@@ -1337,7 +1291,6 @@ upgrade.spotify.com
 upsell.scdn.co
 video-fa.scdn.co
 weblb-wg.gslb.spotify.com
-weblb-wg.dual-gslb.spotify.com
 www.spotify-desktop.com
 a23-1-99-33.deploy.static.akamaitechnologies.com
 audio-ak.spotify.com.eip.akadns.net
