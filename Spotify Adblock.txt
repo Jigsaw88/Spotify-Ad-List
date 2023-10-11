@@ -9,7 +9,6 @@ ab.tune.com
 ac1.vip.sc9.admob.com
 ac208.sc9.admob.com
 academy.tune.com
-aci.scdn.co
 beta.spotify.map.fastly.net
 actman.scdn.com
 ad3.adfarm1.adition.com
@@ -93,9 +92,7 @@ api.admob.xiaomi.com
 api.comscore.com
 api.intercom.io
 api.mixpanel.com
-api.spotify.com 
 api.zwizzarmyknife.com
-apresolve.spotify.com 
 apx.moatads.com
 ar.voicefive.com
 arantxa.ash1.spotify.com 
@@ -155,8 +152,6 @@ audio-cf.spotify.com
 audio-ec.spotify.com
 audio-fa.scdn.co
 audio-fa.scdn.co 
-audio-fa.spotify.com
-audio-fa.spotify.com 
 audio-fab.spotify.com
 audio-fab.spotify.com 
 audio-fac-spotify.com
@@ -200,7 +195,6 @@ cal.spotify.com
 car-dev.scdn.co 
 car-prod.scdn.co 
 car-staging.scdn.co 
-cast.scdn.co 
 cdn.ravenjs.com
 cdr.comscore.com
 cer.comscore.com
@@ -341,20 +335,15 @@ games.admob.com
 gcdn.2mdn.net
 ge-0-0-1-edge1.sc9.admob.com
 ge-0-0-43-crs1.sc9.admob.com
-geo3.ggpht.com
 geo.moatads.com
 gew1.ap.spotify.com
-gew-dealer-ssl.spotify.com 
-gew-dealer.spotify.com 
 gew-spclient.spotify.com 
 global-dealer-ssl.spotify.com 
-go.scdn.co 
 googleadapis.l.google.com
 googleads4.g.doubleclick.net
 googleads.g.doubleclick.
 googleads.g.doubleclick.net
 googleadservices.com
-googlehosted.l.googleusercontent.com
 googletagservices.com
 groups.spotify.com 
 gtssl2-ocsp.geotrust.
@@ -431,7 +420,6 @@ kismet.ash.spotify.com
 l.admob.com
 lab.tune.com
 labs.comscore.com
-labs.spotify.community 
 labs.tune.com
 laurinda.ash1.spotify.com 
 laurinda.ash.spotify.com 
@@ -450,9 +438,6 @@ log2.spotify.com
 log.spotify.
 log.spotify.com
 log.spotify.com 
-login2.spotify.com 
-login-signup.scdn.co 
-login.spotify.com 
 logtest.moatads.com
 lon6-accesspoint-a33.lon6.spotify.com
 lon.weblb-wg.gslb.spotify.com 
@@ -523,7 +508,6 @@ ns5.spotify.com
 o1.em.spotify.com 
 o11.em.spotify.com 
 o.admob.com
-o.scdn.co 
 oktascimserver.spotify.com 
 omaze.
 omaze.com
@@ -533,7 +517,6 @@ ord.comscore.com
 orientation.internal.intercom.io
 p1.vip.sc9.admob.com
 p.admob.com
-p.scdn.co 
 pagead2.googlesyndication.
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.
@@ -692,7 +675,6 @@ sync.search.spotxchange.com
 sync.search.spotxchange.com 
 t.admob.com
 t.myvisualiq.net
-t.scdn.co 
 t.update.moatads.com
 tap1.vip.sc9.admob.com
 tathra.ash1.spotify.com 
@@ -1258,7 +1240,6 @@ audio-akp.spotify.com
 audio-ec.spotify.com
 audio-fab.spotify.com
 audio-fac.spotify.com
-audio-sp.scdn.co
 audio-sp.spotify.com
 beta.spotify.map.fastly.net
 beta.spotify.map.fastlylb.net
