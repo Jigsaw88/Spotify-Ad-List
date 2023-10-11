@@ -33,32 +33,3 @@ Go and click the Update Button (This can take some time)
 
 
 After this your are done
-
-# My spotify dont work anymore
-If your Spotify stopped working after this please add the following links to your **Whitelist**:
-
-1.spclient.wg.spotify.com
-
-2.apresolve.spotify.com
-
-3.dealer.spotify.com
-
-4.audio4-fa.scdn.co
-
-5.global-dealer-ssl.spotify.com
-
-6.lineup-images.scdn.co
-
-7.download.scdn.co
-
-8.t.scdn.co
-
-9.daily-mix.scdn.co
-
-10.accounts.scdn.co
-
-11.audio-akp-spotify-com.akamaized.net
-
-12.audio4-akp-spotify-com.akamaized.net
-
-13.	t.scdn.co (Search stuff on Desktop)
